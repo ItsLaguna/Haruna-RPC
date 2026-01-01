@@ -1,6 +1,6 @@
 # Haruna Rich Presence
 
-This Python script allows you to display the current show, episode, and season (or movie) you're watching on Haruna to Discord.
+This Python script allows you to display the current show, episode, and season (or movie) you're watching on [Haruna](https://github.com/KDE/haruna) to Discord.
 | <img width="401" height="161" alt="Screenshot_20260101_210818" src="https://github.com/user-attachments/assets/59177f55-8670-4fdf-95d8-68e7b90f4e98" /> | <img width="398" height="157" alt="Screenshot_20260101_220207" src="https://github.com/user-attachments/assets/377d6b3f-c959-4419-b642-03b082b7280f" /> |
 |----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | <img width="403" height="165" alt="Screenshot_20260101_210716" src="https://github.com/user-attachments/assets/f3fc228c-cba8-44f6-9dbc-e906b22baf13" /> | <img width="402" height="160" alt="Screenshot_20260101_220319" src="https://github.com/user-attachments/assets/cb909fcb-77d1-4ba8-99e0-315473b53fe6" /> |
