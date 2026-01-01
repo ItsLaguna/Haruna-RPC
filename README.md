@@ -17,15 +17,15 @@ Run `pip install pypresence` to install the required module.
 # Features
 
 - **Filename Parsing**
-  - Automatically grabs info from filenames (e.g. "The Simpsons S01E03" displays as Title: The Simpsons, Subtitle: Season 1 | Episode 3).
+  - Automatically grabs info from filenames (e.g. "The Simpsons S01E03" displays as Title: The Simpsons, Subtitle: Season 1 | Episode 3)
 - **Single Season Support**
-  - Handles single season format (e.g. "Cowboy Bebop E01").
+  - Handles single season format (e.g. "Cowboy Bebop E01")
 - **Generic Support**
-  - Displays "Watching" for files where season/episode hasn't been specified.
+  - Displays "Watching" for files where season/episode hasn't been specified
 - **Dynamic Status**
-  - Tracking for pausing, resuming, and seeking.
+  - Tracking for pausing, resuming, and seeking
 - **File Extension Filter**
-  - (*) Useful if your shows are in .mkv and only want to display that, but not your random 4AM .mp4 clip you saved from Fortnite.
+  - (*) Useful if your shows are in .mkv and only want to display that, but not your random 4AM .mp4 clip you saved from Fortnite
 
 <sub> (*) To change this, open the script and follow the instructions on it</sub>
 
