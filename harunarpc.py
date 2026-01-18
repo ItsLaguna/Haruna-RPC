@@ -7,6 +7,7 @@ import re
 import threading
 from datetime import datetime
 from pypresence import Presence
+from pypresence.types import ActivityType
 
 # --- Configuration ---
 MPV_SOCKET_PATH = "/tmp/mpvsocket"
@@ -224,6 +225,8 @@ class HarunaDiscordPresence:
             "small_text": "Paused" if paused else "Playing",
             "start": start_time,
             "end": end_time,
+            "activity_type": ActivityType.WATCHING,
+            "name": "Haruna"
         }
 
         if activity != self.last_update_state:
